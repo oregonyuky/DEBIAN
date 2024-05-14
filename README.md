@@ -13,3 +13,6 @@ wsl -d Debian -u root
 ```powershell
 passwd
 ```
+
+![image](https://github.com/oregonyuky/DEBIAN/assets/152916454/af719a6d-eb94-4da5-966a-69a984e89296)
+
