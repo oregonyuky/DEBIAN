@@ -3,14 +3,7 @@ Only do this on powershell
 # first commit (windows)
 ```powershell
 wsl -l
-```
-## second commit (windows)
-```powershell
 wsl -d Debian -u root
-```
-## third commit (windows)
-### this serves to create another password 
-```powershell
 passwd
 ```
 ## After you need open you Debian and print: (debian)
