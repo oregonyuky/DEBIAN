@@ -10,5 +10,11 @@ passwd
 ```powershell
 su
 ```
+# How to git pull base on github
+```git
+git checkout main
+git fetch origin
+git reset --hard origin/main
+```
 ![image](https://github.com/oregonyuky/DEBIAN/assets/152916454/af719a6d-eb94-4da5-966a-69a984e89296)
 
